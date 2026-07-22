@@ -1,0 +1,5 @@
+za\ac\cput\jdbcprac13\dao\SubjectDAO.class
+za\ac\cput\jdbcprac13\connection\DBConnection.class
+za\ac\cput\jdbcprac13\gui\AddSubjectGui.class
+za\ac\cput\jdbcprac13\JDBCPrac13.class
+za\ac\cput\jdbcprac13\domain\Subject.class
